@@ -1,2 +1,2 @@
-# TORCH ViT - Vision Transformer for CERN LHCb TORCH denoising
-
+# TORCH ViT 
+Desnoising Vision Transformer for CERN LHCb TORCH detector.
